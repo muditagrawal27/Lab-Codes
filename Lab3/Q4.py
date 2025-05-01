@@ -1,5 +1,3 @@
-print("Parthvi Desai")
-print("24BEE115")
 def remove_str(str,str1):
     if(str1 in str):
         return str.replace(str1,"")
